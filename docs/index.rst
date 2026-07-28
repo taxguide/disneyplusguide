@@ -1,6 +1,7 @@
-## DisneyPlus.com/Begin | Enter Your 8-Digit Code & Activate Disney+
+DisneyPlus.com/Begin | Enter Your 8-Digit Code & Activate Disney+
+=================================================================
 
-If your TV displays an **8-digit Disney+ activation code**, you can quickly connect your device by visiting **DisneyPlus.com/Begin**. Simply open the Disney+ app on your Smart TV, Roku, Fire TV, Apple TV, gaming console, or another supported streaming device, then enter the code shown on your screen. After signing in with your Disney+ account, your device will activate automatically, allowing you to stream your favorite movies, TV shows, Pixar, Marvel, Star Wars, and National Geographic content. The activation process usually takes only a few minutes when your device is connected to the internet.
+If your TV displays an **8-digit Disney+ activation code**, you can quickly connect your device by visiting **DisneyPlus.com/Begin**. Simply open the Disney+ app on your Smart TV, Roku, Fire TV, Apple TV, gaming console, or another supported streaming device, then enter the code shown on your screen. After signing in with your Disney+ account, your device will activate automatically, allowing you to stream your favorite movies, TV shows, Pixar, Marvel, Star Wars, and National Geographic content.
 
 How to Activate Disney+ with an 8-Digit Code
 --------------------------------------------

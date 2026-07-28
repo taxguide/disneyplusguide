@@ -27,5 +27,5 @@ language = 'en'
 html_title = "disneyplusguide"
 
 # Sitemap
-html_baseurl = "https://login-ancestrycom-login.readthedocs-hosted.com/en/latest/"
+html_baseurl = "https://disneyplusguide-disneyplusguide.readthedocs-hosted.com/en/latest/"
 sitemap_url_scheme = "{link}"
